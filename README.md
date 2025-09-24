@@ -1,2 +1,2 @@
-# class-practice-dy2
+# class-practice-dyto
 my second repo in class
